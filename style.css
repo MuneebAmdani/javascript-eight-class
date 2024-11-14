@@ -1,0 +1,28 @@
+.container{
+    margin: 20%;
+}
+.container h1{
+    text-align: center;
+    color: white;
+}
+.btn{
+    text-align: center;
+}
+h3{
+    font-size: xx-large;
+    color: red;
+}
+button{
+    margin: 7%;
+    font-size: 150%;
+    background-color: yellow;
+    height: 10vh;
+    border-radius: 50%;
+}
+body{
+    background-image: url('https://png.pngtree.com/background/20230626/original/pngtree-d-render-of-stopwatch-and-timer-icon-with-clouds-on-blue-picture-image_4058506.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+}
